@@ -1,3 +1,4 @@
+def instantiate_
 array = []
 array
 
