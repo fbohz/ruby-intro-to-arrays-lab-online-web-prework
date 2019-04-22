@@ -3,6 +3,7 @@ def instantiate_new_array
   array
 end
 
-
-array2 = ["e", 2]
-array2
+def array_with_two_elements
+  array2 = ["e", 2]
+  array2
+end 
